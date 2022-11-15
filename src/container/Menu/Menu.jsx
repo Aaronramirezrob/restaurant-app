@@ -2,7 +2,7 @@ import React from "react";
 import "./Menu.css";
 
 import { MenuItem, SubHeading } from "../../components";
-import { images, data } from "../../constants";
+import { data } from "../../constants";
 const Menu = () => (
   <div className="app__specialMenu flex__center section__padding" id="menu">
     <div className="app__specialMenu-title">
